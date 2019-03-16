@@ -17,7 +17,7 @@
 .centering_parent {
     padding: 20px;              /* 余白指定 */
     background-color:  #ddd;    /* 背景色指定 */
-    height:2880px;              /* 高さ指定 */
+    height:1080px;              /* 高さ指定 */
     width: 1000px;               /* 幅指定 */
     position: relative;         /* 位置指定の基準点にする */
 }
