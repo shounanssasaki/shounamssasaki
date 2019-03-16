@@ -9,6 +9,10 @@
   color: #dc143c;
 }
 
+.bold {
+  font-weight:bold;
+}
+
 
 .centering_parent {
     padding: 20px;              /* 余白指定 */
