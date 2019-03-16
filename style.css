@@ -5,6 +5,10 @@
   font-size: 1.5em;
 }
 
+#example2 {
+  color: rgb(234, 82, 11);
+}
+
 
 .centering_parent {
     padding: 20px;              /* 余白指定 */
